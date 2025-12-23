@@ -875,17 +875,17 @@
     "change": -0.3899999999999999
   },
   {
-    "code": "1310",
-    "name": "台苯",
-    "market": "TWSE",
-    "three_inst_ratio": 5.79,
-    "change": -0.3899999999999997
-  },
-  {
     "code": "6625",
     "name": "必應",
     "market": "TWSE",
     "three_inst_ratio": 3.96,
+    "change": -0.3899999999999997
+  },
+  {
+    "code": "1310",
+    "name": "台苯",
+    "market": "TWSE",
+    "three_inst_ratio": 5.79,
     "change": -0.3899999999999997
   },
   {
@@ -1225,17 +1225,17 @@
     "change": -0.29080934745155673
   },
   {
-    "code": "1732",
-    "name": "毛寶",
-    "market": "TWSE",
-    "three_inst_ratio": 5.19,
-    "change": -0.29000000000000004
-  },
-  {
     "code": "1810",
     "name": "和成",
     "market": "TWSE",
     "three_inst_ratio": 3.99,
+    "change": -0.29000000000000004
+  },
+  {
+    "code": "1732",
+    "name": "毛寶",
+    "market": "TWSE",
+    "three_inst_ratio": 5.19,
     "change": -0.29000000000000004
   },
   {
@@ -1330,6 +1330,20 @@
     "change": -0.2600000000000007
   },
   {
+    "code": "3043",
+    "name": "科風",
+    "market": "TWSE",
+    "three_inst_ratio": 0.69,
+    "change": -0.26
+  },
+  {
+    "code": "00876",
+    "name": "元大全球5G",
+    "market": "TWSE",
+    "three_inst_ratio": 0.26,
+    "change": -0.26
+  },
+  {
     "code": "2444",
     "name": "兆勁",
     "market": "TWSE",
@@ -1344,31 +1358,17 @@
     "change": -0.26
   },
   {
-    "code": "00876",
-    "name": "元大全球5G",
+    "code": "2429",
+    "name": "銘旺科",
     "market": "TWSE",
-    "three_inst_ratio": 0.26,
-    "change": -0.26
-  },
-  {
-    "code": "3043",
-    "name": "科風",
-    "market": "TWSE",
-    "three_inst_ratio": 0.69,
-    "change": -0.26
+    "three_inst_ratio": 2.5,
+    "change": -0.2599999999999998
   },
   {
     "code": "1720",
     "name": "生達",
     "market": "TWSE",
     "three_inst_ratio": 5.289878199124996,
-    "change": -0.2599999999999998
-  },
-  {
-    "code": "2429",
-    "name": "銘旺科",
-    "market": "TWSE",
-    "three_inst_ratio": 2.5,
     "change": -0.2599999999999998
   },
   {
